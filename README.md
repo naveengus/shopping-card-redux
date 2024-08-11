@@ -31,7 +31,7 @@ npm install
 npm install @reduxjs/toolkit react-redux
 ```
 
-.Build the project for production:
+3.Build the project for production:
 
 ```bash
 npm run build
@@ -73,4 +73,4 @@ This file contains the Redux slice that manages the state of the shopping cart, 
 
 # website
 
-- [preview](https://react-axios-blogs.netlify.app/)
+- [preview](https://shop-app-redux.netlify.app/)
